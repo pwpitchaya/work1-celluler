@@ -1,0 +1,16 @@
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\bin\Debug\net8.0-windows\เครื่องคิดเลข.exe
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\bin\Debug\net8.0-windows\เครื่องคิดเลข.deps.json
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\bin\Debug\net8.0-windows\เครื่องคิดเลข.runtimeconfig.json
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\bin\Debug\net8.0-windows\เครื่องคิดเลข.dll
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\bin\Debug\net8.0-windows\เครื่องคิดเลข.pdb
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\net8.0-windows\เครื่องคิดเลข.Form1.resources
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\net8.0-windows\เครื่องคิดเลข.csproj.GenerateResource.cache
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\net8.0-windows\เครื่องคิดเลข.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\net8.0-windows\เครื่องคิดเลข.AssemblyInfoInputs.cache
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\net8.0-windows\เครื่องคิดเลข.AssemblyInfo.cs
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\net8.0-windows\เครื่องคิดเลข.csproj.CoreCompileInputs.cache
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\net8.0-windows\เครื่องคิดเลข.dll
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\net8.0-windows\refint\เครื่องคิดเลข.dll
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\net8.0-windows\เครื่องคิดเลข.pdb
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\net8.0-windows\เครื่องคิดเลข.genruntimeconfig.cache
+C:\Users\kudom\OneDrive\เดสก์ท็อป\Work1\เครื่องคิดเลข\เครื่องคิดเลข\เครื่องคิดเลข\obj\Debug\net8.0-windows\ref\เครื่องคิดเลข.dll
